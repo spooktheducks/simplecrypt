@@ -1,4 +1,4 @@
-module github.com/redwood/simplecrypt
+module github.com/spooktheducks/simplecrypt
 
 go 1.17
 
